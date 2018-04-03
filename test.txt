@@ -4,7 +4,4 @@ this is a new line
 new line 2
 origin change 
 branch test
-<<<<<<< HEAD
 branch 666
-=======
->>>>>>> feature1
